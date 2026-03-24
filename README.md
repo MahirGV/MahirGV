@@ -28,6 +28,11 @@ Here are some of my learning projects:
 - OOP (Object-Oriented Programming)
 - Git & GitHub
 - Basic Algorithms
+- Linux  
+- Git & GitHub  
+- Docker (learning)  
+- CI/CD basics  
+- Bash scripting  
 
 ---
 
@@ -36,6 +41,11 @@ Here are some of my learning projects:
 - Advanced Java concepts
 - Data Structures
 - Backend development (Spring - beginner)
+- DevOps fundamentals  
+- Docker & containers  
+- CI/CD pipelines  
+- Linux system administration  
+
 
 ---
 
@@ -44,6 +54,9 @@ Here are some of my learning projects:
 - Become a professional Java developer
 - Build real-world projects
 - Contribute to open-source projects
+- Become a DevOps Engineer  
+- Automate workflows  
+- Work with cloud technologies (AWS in future maybe)  
 
 ---
 
@@ -60,6 +73,7 @@ Here are some of my learning projects:
 🤝 Contact Me
 
 - GitHub: https://github.com/MahirGV
+- GItHub: https://github.com/MahiroJV (this acc is for fun just exprement bash and open-source projects)
 
 ---
 
