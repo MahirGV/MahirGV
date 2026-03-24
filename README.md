@@ -1,10 +1,68 @@
-- 👋 Hi, I’m Mahir
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java and in feathure will learn C# and Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👨‍💻 Mahir Mehtizade
 
-<!---
-MahirGV/MahirGV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋 I'm Mahir, an IT student passionate about programming and technology.
+
+---
+
+🚀 About Me
+
+- 🎓 IT student
+- 💻 Currently learning Java & OOP
+- 🔧 Interested in software development & hardware
+- 🌱 Improving my coding skills every day
+
+---
+
+📂 My Projects
+
+Here are some of my learning projects:
+
+- 📘 Java Learning Repository
+  👉 https://github.com/MahirGV/JavaLearning
+
+---
+
+🛠️ Technologies & Tools
+
+- Java
+- OOP (Object-Oriented Programming)
+- Git & GitHub
+- Basic Algorithms
+
+---
+
+📚 Currently Learning
+
+- Advanced Java concepts
+- Data Structures
+- Backend development (Spring - beginner)
+
+---
+
+🎯 Goals
+
+- Become a professional Java developer
+- Build real-world projects
+- Contribute to open-source projects
+
+---
+
+📊 GitHub Stats
+
+"Mahir's GitHub stats" (https://github-readme-stats.vercel.app/api?username=MahirGV&show_icons=true)
+
+---
+
+🔥 Languages
+
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=MahirGV&layout=compact)
+
+---
+
+🤝 Contact Me
+
+- GitHub: https://github.com/MahirGV
+
+---
+
+⭐ This profile is constantly improving as I learn and grow.
