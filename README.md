@@ -47,17 +47,15 @@ Here are some of my learning projects:
 
 ---
 
-📊 GitHub Stats
 
-"Mahir's GitHub stats" (https://github-readme-stats.vercel.app/api?username=MahirGV&show_icons=true)
-
+## 📊 GitHub Stats
+![Mahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahirGV&show_icons=true)
 ---
 
-🔥 Languages
 
-"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=MahirGV&layout=compact)
 
----
+## 🔥 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirGV&layout=compact)
 
 🤝 Contact Me
 
