@@ -56,6 +56,7 @@ Here are some of my learning projects:
 
 ## 🔥 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirGV&layout=compact&theme=tokyonight)
+---
 🤝 Contact Me
 
 - GitHub: https://github.com/MahirGV
